@@ -46,6 +46,7 @@ import org.apache.lucene.store.FSDirectory;
  * Run it with no command-line arguments for usage information.
  */
 //COMENTARIO DE PRUEBA
+//SEGUNDO COMENTARIO DE PRUEBA
 public class IndexFiles {
   
   private IndexFiles() {}
